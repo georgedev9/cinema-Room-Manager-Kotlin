@@ -1,5 +1,3 @@
-package cinema
-
 const val FRONT_PRICE = 10
 const val BACK_PRICE = 8
 const val TICKET_PRICE = 10
